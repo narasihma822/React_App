@@ -1,0 +1,44 @@
+/* .data{
+    margin: 20px;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: auto auto  auto;
+    grid-gap: 20px;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+.data div{
+    border-radius: 16px;
+} */
+
+/* #nn{
+    background-color: rgb(122, 114, 114);
+    width: 350px;
+}
+#kk{
+    border: 2px solid green;
+} */
+
+/* 
+
+
+#ru{
+    height: 180px;
+    width: 350px;
+    text-align: center;
+    align-items: center;
+    margin-top: 300px;
+    border: 3px solid black;
+    margin-left: 550px;
+    padding: 40px;
+    background-color: rgb(4, 1, 4);
+    
+} */
+
+div ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: rgb(176, 195, 147);
+    padding: 15px;
+}

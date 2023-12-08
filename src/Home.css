@@ -1,0 +1,21 @@
+#sun{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 20px;
+   
+}
+#go{
+    padding-left: 200px;
+}
+@media(max-width:768px){
+    #sun{
+        display: inline;
+    }
+    #po{
+        display: inline;
+    }
+}
+
+#moon{
+    background-image: url("https://th.bing.com/th/id/OIP.unY_KyFqRyT41J_EzkbDGQHaGr?w=529&h=477&rs=1&pid=ImgDetMain");
+}
